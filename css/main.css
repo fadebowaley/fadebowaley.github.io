@@ -824,7 +824,7 @@ hr {
   background-color: #111;
   background-position: center center;
   height: 100vh;
-  overflow: hidden
+  overflow: hidden; 
 }
 
 .home-area:before {
