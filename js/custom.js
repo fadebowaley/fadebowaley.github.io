@@ -6,4 +6,7 @@
  * Version: v1.0.2
  * License: Themeforest Standard Licenses: https://themeforest.net/licenses
  */
-!function(n){"use strict";n((function(){})),n(window).on("load",(function(){}))}(jQuery);
+! function (n) {
+    "use strict";
+    n((function () {})), n(window).on("load", (function () {}))
+}(jQuery);
